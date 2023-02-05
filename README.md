@@ -1,7 +1,7 @@
 # Atliq-Sales-Analysis
 Two interactive dashboards, helpful in implementing data driven solutions aimed at improving the sales of products.
 
-# Problem statement - There's a company called Atliq Hardware, and their sales have been declining. Build dashboards depicting the sales and profit analysis for your sales manages so that he could make data driven decisions.
+## Problem statement - There's a company called Atliq Hardware, and their sales have been declining. Build dashboards depicting the sales and profit analysis for your sales manages so that he could make data driven decisions.
 
 # Steps involved - 
 ## Importing the data in MySQL containing sales, customers, products and transactions data, and running some queries to understand the data and draw insights from it
