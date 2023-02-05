@@ -11,4 +11,4 @@ Two interactive dashboards, helpful in implementing data driven solutions aimed 
 # The Tableau dashboards can be accessed using the below mentioned link:
 https://public.tableau.com/views/AtliqSalesAnalysis/ProfitAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
-# All the relevent files such as the MySQL queries file, tbx file and ppt can be found in the main section
+# All the relevent files such as the MySQL queries file, twbx file and ppt can be found in the main section
